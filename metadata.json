@@ -1,0 +1,8 @@
+{
+  "name": "SermonStack",
+  "description": "A Substack-inspired platform to document and search sermon notes, discover churches and writers across states, countries, and continents, and track notes by preacher and sermon series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
